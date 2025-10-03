@@ -1,0 +1,5 @@
+{
+  "name": "L3 Course Materials",
+  "description": "A web application for L3 students to access course materials for chapters 5 and 6, managed by group administrators.",
+  "requestFramePermissions": []
+}
